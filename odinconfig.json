@@ -1,0 +1,10 @@
+{
+    "base" : "_template",
+    "geometries" : [
+        "ext_sym_airfoil0",
+        "ext_sym_airfoil10"
+    ],
+    "blocks" : [
+        [20, 8, 8]
+    ]
+}
